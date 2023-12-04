@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajfrosty&label=Profile%20views&color=0e75b6&style=flat" alt="ajfrosty" /> </p>
 
-- 🔭 I’m currently working on [DisasterReady](https://github.com/AJFrosty/DisasterReady)
+- 🔭 I’m currently working on [DisasterReady](https://github.com/AJFrosty/DisasterReady) & [PennyWise](https://github.com/AJFrosty/Pennywise/)
 
 - 🌱 I’m currently learning **Python, JavaScript, C**
 
