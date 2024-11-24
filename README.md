@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.discordapp.com/attachments/807743928316067862/1144079002097688586/Ajante_Fraser.png)](https://www.linkedin.com/in/ajantefraser/)
+[![MasterHead](https://cdn.discordapp.com/attachments/807743928316067862/1144079002097688586/Ajante_Fraser.png?ex=674479da&is=6743285a&hm=1d006139bf279fd9a6ee1e7654b5da0e8f5e768bb1f72a959bc57df06fa7da04&)](https://www.linkedin.com/in/ajantefraser/)
 <h1 align="center">It's Me Frosty💜</h1>
 <h3 align="center">I am a passionate Mathematician, Penetration Tester and Programmer!</h3>
 <img align="right" alt="Programming" width="400" src="https://cdn.dribbble.com/users/2401141/screenshots/5487982/developers-gif-showcase.gif">
